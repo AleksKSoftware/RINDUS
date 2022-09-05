@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rindus</string>
+    <string name="error">Something is wrong</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperatureMin">"Min temperature "</string>
+    <string name="temperatureMax">Max temperature</string>
+    <string name="date">Date</string>
+</resources>
