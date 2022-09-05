@@ -1,4 +1,4 @@
-## The forecast project
+# The forecast project
 
 1. The weather page has a forecast list for the next 5 days of Duseldorf.
 2. The C&A homepage, allowing the user to interact with it, and every time a navigation is made, a view should appear that blocks the webview and shows an activity indicator (or similar) during the time the web is loading.
